@@ -15,22 +15,7 @@
 
 ### 📫 How to Reach Me
 - GitHub: [mihir001mv](https://github.com/mihir001mv)  
-- 🌐 Website: _Coming soon_  
-- 💬 Discord/Twitter: _[Add if available]_  
 
 ### ⚡ Fun Fact
 - "I once made a **fork bomb** just for fun! 💥😂"  
 
----
-
-### **✅ How to Add This to Your GitHub Profile**
-1️⃣ Go to [GitHub](https://github.com/) and log in.  
-2️⃣ Click your **profile picture** (top-right corner) → **"Your repositories"**.  
-3️⃣ Find the repo named **`mihir001mv`** (same as your username).  
-4️⃣ Click **"Add File" → "Edit README.md"**.  
-5️⃣ Paste the new content above.  
-6️⃣ Click **"Commit Changes"**.  
-
-Now, your **GitHub profile will look awesome!** 😃🚀  
-
-Let me know if you want any **more changes or customizations!** 🎨💻
